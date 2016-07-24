@@ -19,3 +19,7 @@ function draw() {
   
   
 }
+
+function mouseMoved() {
+  return false;
+}
