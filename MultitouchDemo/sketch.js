@@ -20,6 +20,6 @@ function draw() {
   
 }
 
-function mouseMoved() {
+function touchMoved() {
   return false
 }
