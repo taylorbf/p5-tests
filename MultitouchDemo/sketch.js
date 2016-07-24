@@ -4,7 +4,7 @@ function setup() {
 
 function draw() {
   
-  fill(0,100,255,100)
+  fill(255,100,255,100)
   stroke(255)
   
   for (var i=0;i<touches.length;i++) {
@@ -21,5 +21,5 @@ function draw() {
 }
 
 function mouseMoved() {
-  return false;
+  return false
 }
